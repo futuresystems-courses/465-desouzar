@@ -1,0 +1,29 @@
+git clone
+This clones the repository into a local directory.For example my 
+repository 465-desouzar is clones into a local directory on 
+futureststems
+
+git add
+Thsi command adds changes to files in the local directory to the staging 
+area.It prepares content for the next commit
+
+git commit
+Commits everything present in the staging area.It records changes to the 
+repository by storing current contents of the index along with a message 
+from the user describing whatever changes are made
+
+git push
+Updates committed changes from local repository to remote 
+repository.Updates the remote refernces using local refernces
+
+git pull
+This functions opposite to push.Incorporates chsnges from remote 
+repository into the local repository
+
+Local vs Remore repository
+Repository created in a local system or a working directory is a local 
+repository.In our case its the futuresystems repository.
+Remote repository is a non local,remote/internet based reposiory.For 
+example the github repository
+
+
